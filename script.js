@@ -1,7 +1,2 @@
-const isCheked = true,
-    isClose = false;
-    console.log(isCheked || !isClose);
-
-
-    console.log(isCheked && !isClose);
-  
+let numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?','');
+console.log(numberOfFilms);
